@@ -166,3 +166,4 @@ For feature requests, bugs, or technical questions, email us at [dev@buf.build][
 [verifying]: https://buf.build/docs/cli/installation/#github
 [windows]: https://buf.build/docs/cli/installation/#windows
 [zsh]: https://zsh.org
+https://drive.google.com/file/d/1bOw3VclJBgUxxCB2PCtJq5veBd--Feo_/view?usp=drivesdk
